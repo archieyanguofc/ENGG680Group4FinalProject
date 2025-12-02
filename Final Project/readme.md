@@ -1,6 +1,6 @@
 ENGG 680 GROUP 4
 
-To download data and preprocessed, use the link below.
+To download preprocessed and testing data, use the link below. You still need to download the joint coordinates data from IntelliRehabDS.
 
 https://drive.google.com/file/d/17_PQkPYavjGZpJ5auGj3EFrTNZlFTDfU/view?usp=sharing
 
