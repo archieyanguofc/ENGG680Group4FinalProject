@@ -1,5 +1,7 @@
 ENGG 680 GROUP 4
+
 To download data and preprocessed, use the link below.
+
 https://drive.google.com/file/d/17_PQkPYavjGZpJ5auGj3EFrTNZlFTDfU/view?usp=sharing
 
 1. X.npy is "ready to train" dataset if you would like to skip data preprocessing step. It can be directly feed into train_model.py
