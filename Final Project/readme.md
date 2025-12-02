@@ -1,4 +1,4 @@
-****************ENGG 680 GROUP 4******************
+ENGG 680 GROUP 4
 
 
 1. X.npy is "ready to train" dataset if you would like to skip data preprocessing step. It can be directly feed into train_model.py
